@@ -1,0 +1,27 @@
+@import "main.css";
+@import "grid.css";
+@import "patterns.css";
+@import "reset.css";
+@import "responsive.css";
+@import "styles.css";
+@import "variables.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+}
+:root{
+    --brand-color-pink: #f67acb;
+    --gray-color-100: #050110;
+    --gray-color-50: rgba(202, 182, 182, 0.178);
+    --white-color-text: rgba(255,255,255,0.7);
+    --gray-color-300: #393c40;
+    --white-color-main: #fff;
+
+}

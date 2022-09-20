@@ -121,6 +121,7 @@ header nav ul li:last-child {
     align-items: center;
     padding-top: 0,5rem;
     text-align: center;
+    border: 12px;
     }
 
 .s-card-featured .all-cards .card .info{
@@ -135,7 +136,7 @@ header nav ul li:last-child {
 .s-card-featured .all-cards .card .info .p{
     text-align: center;
     margin-top: 20;
-   }
+}
 
 .s-card-featured .all-cards .card .white{
     background-color: var(#fff);
@@ -159,4 +160,21 @@ padding: 10px
 }
 .image{
     clip-path: polygon(71% 9%, 100% 50%, 74% 88%, 13% 88%, 25% 50%, 15% 9%);
+}
+.blog{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+p{
+    font-family: Courier, "Lucida Console", monospace;
+    font-weight: 600;
+    line-height: 125%;
+    letter-spacing: 1.5px;
+    text-decoration: underline;
+    text-align: center;
+    color: rgba(1, 1, 1, 0.791);
+}
+.foto{
+    margin-left: 42%;
 }
