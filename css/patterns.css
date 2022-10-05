@@ -20,7 +20,7 @@ h3{
 a,button{
     font-family: Courier, "Lucida Console", monospace;
     display:inline-block; 
-    background-color: var(--gray-color-100);
+    background-color: #000000;
     padding: 0.9rem 3.4rem;
     font-weight: 600;
     letter-spacing: 1.5px;
@@ -38,8 +38,8 @@ a,button{
     transition: all .3s;
     border-radius: 15px;
     background:black;
-  }
-  a,button:hover{
+}
+a,button:hover{
     background-color: rgb(0, 0, 0);
     color: white;
 }

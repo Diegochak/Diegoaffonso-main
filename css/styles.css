@@ -157,6 +157,7 @@ padding: 10px
     justify-content:center;
     align-items: center;
     border-radius: 25rem;
+       
 }
 .image{
     clip-path: polygon(71% 9%, 100% 50%, 74% 88%, 13% 88%, 25% 50%, 15% 9%);
@@ -165,6 +166,8 @@ padding: 10px
     margin-top: 100px;
     margin-bottom: 30px;
     padding: 20px;
+    display: grid;
+    grid-row: auto;
 }
 p{
     font-family: Courier, "Lucida Console", monospace;
