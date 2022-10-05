@@ -171,10 +171,13 @@ p{
     font-weight: 600;
     line-height: 125%;
     letter-spacing: 1.5px;
-    text-decoration: underline;
     text-align: center;
     color: rgba(1, 1, 1, 0.791);
 }
 .foto{
     margin-left: 42%;
+}
+figcaption{
+    text-align: center;
+    padding-top: 15px;
 }
