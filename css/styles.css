@@ -18,7 +18,7 @@ header nav{
     align-items: center;     
 }
 header .menu-mobile{ 
-    display: none;
+    display: grid;
 }
 
 header nav ul{
